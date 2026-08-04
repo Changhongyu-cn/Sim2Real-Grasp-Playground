@@ -1,0 +1,1196 @@
+(eval_env) C:\Users\35041\ur5_reinforcement_learning_grasp_object>python final_eval.py
+pybullet build time: Aug  3 2026 19:28:27
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(0.10000000000000003)) picked successfully, distance 0.00974085307423092, reward: 199
+Link 5, joint 12 force: 3.25
+Link 5, joint 12 force: 4.17
+Link 5, joint 17 force: 0.56
+Link 5, joint 12 force: 11.42
+[Grasped] Link 5: joint 17 = 6.48, joint 12 = 23.99
+reward:199
+
+Distance difference: 0.00974085307423092
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.09999999999999998)) picked successfully, distance 0.0037951811625922534, reward: 199
+Link 5, joint 12 force: 3.89
+Link 5, joint 12 force: 3.18
+Link 5, joint 17 force: 0.40
+[Grasped] Link 5: joint 17 = 8.75, joint 12 = 8.31
+reward:199
+
+Distance difference: 0.0037951811625922534
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(0.10000000000000003)) picked successfully, distance 0.00974085307423092, reward: 199
+Link 5, joint 12 force: 3.25
+Link 5, joint 12 force: 4.17
+Link 5, joint 17 force: 0.56
+Link 5, joint 12 force: 11.42
+[Grasped] Link 5: joint 17 = 6.48, joint 12 = 23.99
+reward:199
+
+Distance difference: 0.00974085307423092
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(0.10000000000000003)) picked successfully, distance 0.00974085307423092, reward: 199
+Link 5, joint 12 force: 3.25
+Link 5, joint 12 force: 4.17
+Link 5, joint 17 force: 0.56
+Link 5, joint 12 force: 11.42
+[Grasped] Link 5: joint 17 = 6.48, joint 12 = 23.99
+reward:199
+
+Distance difference: 0.00974085307423092
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(0.10000000000000003)) picked successfully, distance 0.00974085307423092, reward: 199
+Link 5, joint 12 force: 3.25
+Link 5, joint 12 force: 4.17
+Link 5, joint 17 force: 0.56
+Link 5, joint 12 force: 11.42
+[Grasped] Link 5: joint 17 = 6.48, joint 12 = 23.99
+reward:199
+
+Distance difference: 0.00974085307423092
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(0.10000000000000003)) picked successfully, distance 0.00974085307423092, reward: 199
+Link 5, joint 12 force: 3.25
+Link 5, joint 12 force: 4.17
+Link 5, joint 17 force: 0.56
+Link 5, joint 12 force: 11.42
+[Grasped] Link 5: joint 17 = 6.48, joint 12 = 23.99
+reward:199
+
+Distance difference: 0.00974085307423092
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(0.10000000000000003)) picked successfully, distance 0.00974085307423092, reward: 199
+Link 5, joint 12 force: 3.25
+Link 5, joint 12 force: 4.17
+Link 5, joint 17 force: 0.56
+Link 5, joint 12 force: 11.42
+[Grasped] Link 5: joint 17 = 6.48, joint 12 = 23.99
+reward:199
+
+Distance difference: 0.00974085307423092
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(0.10000000000000003)) picked successfully, distance 0.00974085307423092, reward: 199
+Link 5, joint 12 force: 3.25
+Link 5, joint 12 force: 4.17
+Link 5, joint 17 force: 0.56
+Link 5, joint 12 force: 11.42
+[Grasped] Link 5: joint 17 = 6.48, joint 12 = 23.99
+reward:199
+
+Distance difference: 0.00974085307423092
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.09999999999999998)) picked successfully, distance 0.0037951811625922534, reward: 199
+Link 5, joint 12 force: 3.89
+Link 5, joint 12 force: 3.18
+Link 5, joint 17 force: 0.40
+[Grasped] Link 5: joint 17 = 8.75, joint 12 = 8.31
+reward:199
+
+Distance difference: 0.0037951811625922534
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(0.10000000000000003)) picked successfully, distance 0.00974085307423092, reward: 199
+Link 5, joint 12 force: 3.25
+Link 5, joint 12 force: 4.17
+Link 5, joint 17 force: 0.56
+Link 5, joint 12 force: 11.42
+[Grasped] Link 5: joint 17 = 6.48, joint 12 = 23.99
+reward:199
+
+Distance difference: 0.00974085307423092
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.09999999999999998)) picked successfully, distance 0.0037951811625922534, reward: 199
+Link 5, joint 12 force: 3.89
+Link 5, joint 12 force: 3.18
+Link 5, joint 17 force: 0.40
+[Grasped] Link 5: joint 17 = 8.75, joint 12 = 8.31
+reward:199
+
+Distance difference: 0.0037951811625922534
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.09999999999999998)) picked successfully, distance 0.0037951811625922534, reward: 199
+Link 5, joint 12 force: 3.89
+Link 5, joint 12 force: 3.18
+Link 5, joint 17 force: 0.40
+[Grasped] Link 5: joint 17 = 8.75, joint 12 = 8.31
+reward:199
+
+Distance difference: 0.0037951811625922534
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.09999999999999998)) picked successfully, distance 0.0037951811625922534, reward: 199
+Link 5, joint 12 force: 3.89
+Link 5, joint 12 force: 3.18
+Link 5, joint 17 force: 0.40
+[Grasped] Link 5: joint 17 = 8.75, joint 12 = 8.31
+reward:199
+
+Distance difference: 0.0037951811625922534
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(0.10000000000000003)) picked successfully, distance 0.00974085307423092, reward: 199
+Link 5, joint 12 force: 3.25
+Link 5, joint 12 force: 4.17
+Link 5, joint 17 force: 0.56
+Link 5, joint 12 force: 11.42
+[Grasped] Link 5: joint 17 = 6.48, joint 12 = 23.99
+reward:199
+
+Distance difference: 0.00974085307423092
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.09999999999999998)) picked successfully, distance 0.0037951811625922534, reward: 199
+Link 5, joint 12 force: 3.89
+Link 5, joint 12 force: 3.18
+Link 5, joint 17 force: 0.40
+[Grasped] Link 5: joint 17 = 8.75, joint 12 = 8.31
+reward:199
+
+Distance difference: 0.0037951811625922534
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.09999999999999998)) picked successfully, distance 0.0037951811625922534, reward: 199
+Link 5, joint 12 force: 3.89
+Link 5, joint 12 force: 3.18
+Link 5, joint 17 force: 0.40
+[Grasped] Link 5: joint 17 = 8.75, joint 12 = 8.31
+reward:199
+
+Distance difference: 0.0037951811625922534
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(0.10000000000000003)) picked successfully, distance 0.00974085307423092, reward: 199
+Link 5, joint 12 force: 3.25
+Link 5, joint 12 force: 4.17
+Link 5, joint 17 force: 0.56
+Link 5, joint 12 force: 11.42
+[Grasped] Link 5: joint 17 = 6.48, joint 12 = 23.99
+reward:199
+
+Distance difference: 0.00974085307423092
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(0.10000000000000003)) picked successfully, distance 0.00974085307423092, reward: 199
+Link 5, joint 12 force: 3.25
+Link 5, joint 12 force: 4.17
+Link 5, joint 17 force: 0.56
+Link 5, joint 12 force: 11.42
+[Grasped] Link 5: joint 17 = 6.48, joint 12 = 23.99
+reward:199
+
+Distance difference: 0.00974085307423092
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(0.10000000000000003)) picked successfully, distance 0.00974085307423092, reward: 199
+Link 5, joint 12 force: 3.25
+Link 5, joint 12 force: 4.17
+Link 5, joint 17 force: 0.56
+Link 5, joint 12 force: 11.42
+[Grasped] Link 5: joint 17 = 6.48, joint 12 = 23.99
+reward:199
+
+Distance difference: 0.00974085307423092
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.09999999999999998)) picked successfully, distance 0.0037951811625922534, reward: 199
+Link 5, joint 12 force: 3.89
+Link 5, joint 12 force: 3.18
+Link 5, joint 17 force: 0.40
+[Grasped] Link 5: joint 17 = 8.75, joint 12 = 8.31
+reward:199
+
+Distance difference: 0.0037951811625922534
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.09999999999999998)) picked successfully, distance 0.0037951811625922534, reward: 199
+Link 5, joint 12 force: 3.89
+Link 5, joint 12 force: 3.18
+Link 5, joint 17 force: 0.40
+[Grasped] Link 5: joint 17 = 8.75, joint 12 = 8.31
+reward:199
+
+Distance difference: 0.0037951811625922534
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.09999999999999998)) picked successfully, distance 0.0037951811625922534, reward: 199
+Link 5, joint 12 force: 3.89
+Link 5, joint 12 force: 3.18
+Link 5, joint 17 force: 0.40
+[Grasped] Link 5: joint 17 = 8.75, joint 12 = 8.31
+reward:199
+
+Distance difference: 0.0037951811625922534
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(-0.3)) picked successfully, distance 0.007016306351583569, reward: 199
+Link 5, joint 12 force: 1.24
+Link 5, joint 12 force: 3.77
+Link 5, joint 12 force: 5.39
+Link 5, joint 12 force: 0.30
+Link 5, joint 12 force: 1.50
+Link 5, joint 12 force: 5.01
+[Grasped] Link 5: joint 17 = 6.32, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.007016306351583569
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.3)) picked successfully, distance 0.007408454400862172, reward: 199
+Link 5, joint 12 force: 3.85
+Link 5, joint 12 force: 2.45
+Link 5, joint 12 force: 0.07
+Link 5, joint 17 force: 8.11
+Link 5, joint 17 force: 21.61
+[Grasped] Link 5: joint 17 = 21.44, joint 12 = 7.42
+reward:199
+
+Distance difference: 0.007408454400862172
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(-0.09999999999999998)) picked successfully, distance 0.0037951811625922534, reward: 199
+Link 5, joint 12 force: 3.89
+Link 5, joint 12 force: 3.18
+Link 5, joint 17 force: 0.40
+[Grasped] Link 5: joint 17 = 8.75, joint 12 = 8.31
+reward:199
+
+Distance difference: 0.0037951811625922534
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.4), np.float64(0.10000000000000003)) picked successfully, distance 0.00974085307423092, reward: 199
+Link 5, joint 12 force: 3.25
+Link 5, joint 12 force: 4.17
+Link 5, joint 17 force: 0.56
+Link 5, joint 12 force: 11.42
+[Grasped] Link 5: joint 17 = 6.48, joint 12 = 23.99
+reward:199
+
+Distance difference: 0.00974085307423092
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkreward:-0.15450647713982796
+
+Distance difference: 0.015450647713982794
+Cube picked. (np.float64(0.4), np.float64(-0.09999999999999998)) picked successfully, distance 0.0033439342326035655, reward: 198
+Link 5, joint 12 force: 1.26
+Link 5, joint 12 force: 3.96
+Link 5, joint 12 force: 5.92
+Link 5, joint 12 force: 7.72
+[Grasped] Link 5: joint 17 = 6.37, joint 12 = 7.60
+reward:198
+
+Distance difference: 0.0033439342326035655
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+ee_linkCube picked. (np.float64(0.6000000000000001), np.float64(0.10000000000000003)) picked successfully, distance 0.0013678696313327726, reward: 199
+Link 5, joint 12 force: 2.52
+Link 5, joint 12 force: 3.31
+Link 5, joint 12 force: 0.02
+[Grasped] Link 5: joint 17 = 6.23, joint 12 = 8.87
+reward:199
+
+Distance difference: 0.0013678696313327726
+📊 正式评估结果 (n=100): 100.0%
