@@ -256,11 +256,7 @@ class UR5Robotiq85:
         self.max_velocity = 10
 
     def load(self):
-        import os
-        # 获取当前文件所在目录的绝对路径
-        current_dir = os.path.dirname(os.path.abspath(__file__))
-        urdf_path = os.path.join(current_dir, 'urdf', 'ur5_robotiq_85.urdf')
-        self.id = p.loadURDF(urdf_path, self.base_pos, self.base_ori, useFixedBase=True)
+        self.id = p.loadURDF('./urdf/ur5_robotiq_85.urdf', self.base_pos, self.base_ori, useFixedBase=True)
         self.__parse_joint_info__()
         self.__setup_mimic_joints__()
         
