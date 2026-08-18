@@ -64,6 +64,7 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ![奖励分布图](assets/reward_distribution.png)
 ![评估结果截图](assets/evaluation_result.png)
+![训练曲线](assets/training_curve.png)
 
 
 ## 🏃 如何运行
