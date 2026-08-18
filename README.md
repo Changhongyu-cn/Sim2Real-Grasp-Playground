@@ -3,6 +3,18 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
 
+
+## 项目定位
+
+本项目聚焦于 **Sim2Real 迁移的前端环节** —— 即在仿真环境中训练一个**对动力学误差具有鲁棒性**的抓取策略，为后续真机部署提供可靠的策略基座。
+
+**核心工作**：
+1. 在 PyBullet 仿真中完成策略学习（SAC）
+2. 引入 **域随机化（质量、摩擦、动作延迟）**，提升策略对模型误差的容忍度
+3. 导出 TorchScript 模型（`.pt`），为 C++ 真机推理做好准备
+
+> 📌 **注**：真机部署与调试不在本仓库范围内，但策略设计已充分考虑 Sim2Real 迁移需求（动作平滑、噪声注入、延迟补偿）。
+
 ## 📖 项目简介
 
 本项目基于 PyBullet 物理引擎，使用 **SAC (Soft Actor-Critic)** 算法训练 UR5 机械臂在仿真环境中执行**随机位置的物体抓取**任务。通过设计密集奖励函数和优化训练速度，模型在 100 次随机测试中达到了 **100% 的成功率**。
